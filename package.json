@@ -9,5 +9,6 @@
     "push"
   ],
   "author": "halapro.liu",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/halaproliu/gitbook-plugin-baidupush"
 }
