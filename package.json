@@ -1,0 +1,13 @@
+{
+  "name": "gitbook-plugin-baidupush",
+  "version": "1.0.0",
+  "description": "baidu auto push",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "baidu",
+    "push"
+  ],
+  "author": "halapro.liu",
+  "license": "ISC"
+}
